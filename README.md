@@ -9,7 +9,11 @@ Les fichiers de ce dépôt proviennent pour tout ou partie, d'une analyse du sit
 [deplacement-covid-19](https://media.interieur.gouv.fr/deplacement-covid-19/)
 
 Ils ont pour objectif de **permettre la comprehension** du fonctionnement du
-générateur d'attestations.
+**générateur d'attestations**.
+
+Pour plus d'information sur le **lecteur** qui doit être utilisé par les forces
+de l'ordre, voir [le thread de *Elliot
+Alderson*](https://twitter.com/fs0c131y/status/1247088014456754177)
 
 ## Les fichiers importants
 
