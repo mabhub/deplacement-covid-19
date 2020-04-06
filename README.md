@@ -28,15 +28,20 @@ C'est le script principal qui génère un fichier PDF en combinant :
 - un PDF de fond pré-existant,
 - les informations saisis dans un formulaire
 
-## Liens externes
+#### Code original
 
-### Bibliothèques mises en oeuvre
+Cette version déployée par le Gouvernement est un fork d'un [générateur
+précédent](https://johann.pardanaud.com/covid-19-certificate/) développé par
+[Johann Pardanaud](https://twitter.com/johannpardanaud), dont [les sources sont
+disponible](https://github.com/nesk/covid-19-certificate) sous licence MIT.
+
+#### Bibliothèques mises en oeuvre
 
 - [bootstrap](https://www.npmjs.com/package/bootstrap)
 - [pdf-lib](https://www.npmjs.com/package/pdf-lib)
 - [qrcode](https://www.npmjs.com/package/qrcode)
 
-### Autres exploitations du code source
+## Autres exploitations du code source
 
 - https://github.com/ghys/attestation-cmdline
 - https://github.com/fix/covid-certificate
@@ -44,7 +49,7 @@ C'est le script principal qui génère un fichier PDF en combinant :
 ## Questionnements
 
 La page html charge, en plus du script de génération d'attestation, plusieurs
-fichiers JavaScript dont le rôle et le fonctionnement reste à déterminer.
+fichiers JavaScript dont le rôle et le fonctionnement restent à déterminer.
 Notemment :
 
 - https://media.interieur.gouv.fr/_Incapsula_Resource
