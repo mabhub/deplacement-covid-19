@@ -1,8 +1,11 @@
+**Mise à jour** : L'incubateur (Lab) du Ministère de l'Intérieur ayant mis en
+ligne le code source du générateur, celui-ci est maintenant disponible dans le
+dépôt : https://github.com/LAB-MI/deplacement-codiv-19
 
 > **Attention :** n'utilisez pas ces dispositifs sans avoir vous même vérifié
 > leur code source. Vous risqueriez de transmettre involontairement des données
 > personnelles.
-> 
+
 # Générateur d'attestation de déplacement dérogatoire
 
 Les fichiers de ce dépôt proviennent pour tout ou partie, d'une analyse du site
